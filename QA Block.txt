@@ -1,0 +1,13 @@
+The first thought which comes after reading the title in any techie’s mind is that either “QA Block” is a community for testers or it is pertaining to certain impediments which testers face while testing.
+
+Well, QA Block is neither a community nor it mean that Quality Assurance or Testing activities have been blocked due to a failure or crash rather its a bizarre condition similar to “Writer’s Block”( in which a writer with an ardent desire to write content finds himself/herself unable to write due to lack of innovative ideas). Almost same phenomenon happens with QA Analyst or Test Engineers who are involved in Manual/Automation Regression Testing of a same feature , application or website for years. Over the course of time, they are unable to find new and useful defects with their existing set of test cases, scenarios and test scripts and thus find their work monotonous and not-rewarding.
+
+In order to overcome this weird condition, QA Analysts and Testers need to work on the following action items:
+
+In each release or sprint, Regression test cases and test scripts need to be reviewed by peers or team lead because its true that “Two heads are better than one”
+Integration Areas of a ‘Feature Under test or AUT should be identified forthwith. This may results in combination of different test cases with good test coverage
+Many Regression areas can be identified after discussion with the product developers.
+Bug fixes in previous releases should be incorporated as test cases in Regression Test Suite(s).
+Previously delivered features should be added in the form of high-level test cases in Regression Test Suite(s).
+After the correct implementation of aforementioned action items , QA Analysts and Test Engineers can expect a surge in defects which surely maximise the product quality of their organisation.
+
